@@ -1,3 +1,12 @@
-header {background-color: rgb(15, 15, 95);}
-h2  {color: orange;}
-h3  {color: green;}
+header {
+    background-color: rgb(15, 15, 95);
+}
+
+.mi-clase {
+    color: orange;
+    font-size: 16px;
+}
+
+h3 {
+    color: green;
+}
